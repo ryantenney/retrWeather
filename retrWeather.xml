@@ -1,0 +1,67 @@
+/// DriverManager Database Connection String
+<connector_classname>com.mysql.jdbc.Driver</connector_classname>
+<connection_string>jdbc:mysql://192.168.0.96/weather</connection_string>
+<username>username</username>
+<password>password</password>
+<database>weather</database>
+<table>observed</table>
+
+/// URLs of XML data streams
+<station_index_url>http://www.weather.gov/data/current_obs/index.xml</station_index_url>
+<station_data_url>http://www.weather.gov/data/current_obs/$0.xml</station_data_url>
+
+/// Station IDs to retrieve and cache
+<station_ids>
+	KORD,
+	KROC,
+	KVSF
+</station_ids>
+
+<rfc822_date_string>observation_time_rfc822</rfc822_date_string>
+<datetime_value>observation_time</datetime_value>
+<datetime_utc>false</datetime_utc>
+
+/// Field names present in database and in XML file
+<database_columns>
+	id,
+	retrieved,
+	location,
+	station_id,
+	observation_time,
+	observation_time_rfc822,
+	observation_time_posix,
+	latitude,
+	longitude,
+	weather,
+	temp_f,
+	temp_c,
+	relative_humidity,
+	wind_dir,
+	wind_degrees,
+	wind_mph,
+	wind_gust_mph,
+	pressure_mb,
+	pressure_in,
+	dewpoint_f,
+	dewpoint_c,
+	heat_index_f,
+	heat_index_c,
+	windchill_f,
+	windchill_c,
+	visibility_mi,
+	hash
+</database_columns>
+
+<station_fields>
+	station_id,
+	state,
+	station_name,
+	latitude,
+	longitude,
+	html_url,
+	rss_url,
+	xml_url
+</station_fields>
+
+<sqlFieldQuoteChar>`</sqlFieldQuoteChar>
+<sqlValueQuoteChar>'</sqlValueQuoteChar>
