@@ -1,0 +1,230 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 44;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		085E0F1D0CF646D400D27B1A /* retrWeather.xml in CopyFiles */ = {isa = PBXBuildFile; fileRef = 085E0F1B0CF646AF00D27B1A /* retrWeather.xml */; };
+		085E79B70CF26517005DAC02 /* retrWeather.java in Sources */ = {isa = PBXBuildFile; fileRef = 085E79B60CF26517005DAC02 /* retrWeather.java */; };
+		085E79BE0CF27E3E005DAC02 /* URLGrabber.java in Sources */ = {isa = PBXBuildFile; fileRef = 085E79A60CF262F4005DAC02 /* URLGrabber.java */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		085E0F1F0CF646F200D27B1A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 6;
+			files = (
+				085E0F1D0CF646D400D27B1A /* retrWeather.xml in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		085E0F1B0CF646AF00D27B1A /* retrWeather.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = retrWeather.xml; sourceTree = "<group>"; };
+		085E79A60CF262F4005DAC02 /* URLGrabber.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = URLGrabber.java; sourceTree = "<group>"; };
+		085E79AD0CF2648F005DAC02 /* retrWeather */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = retrWeather; sourceTree = BUILT_PRODUCTS_DIR; };
+		085E79B60CF26517005DAC02 /* retrWeather.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = retrWeather.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		085E79AB0CF2648F005DAC02 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		085E79980CF262A2005DAC02 = {
+			isa = PBXGroup;
+			children = (
+				085E0F1B0CF646AF00D27B1A /* retrWeather.xml */,
+				085E79B60CF26517005DAC02 /* retrWeather.java */,
+				085E79A60CF262F4005DAC02 /* URLGrabber.java */,
+				085E79AE0CF2648F005DAC02 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		085E79AE0CF2648F005DAC02 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				085E79AD0CF2648F005DAC02 /* retrWeather */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXJavaArchiveBuildPhase section */
+		085E79AA0CF2648F005DAC02 /* JavaArchive */ = {
+			isa = PBXJavaArchiveBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXJavaArchiveBuildPhase section */
+
+/* Begin PBXLibraryTarget section */
+		085E79AC0CF2648F005DAC02 /* retrWeather */ = {
+			isa = PBXLibraryTarget;
+			buildConfigurationList = 085E79B10CF2648F005DAC02 /* Build configuration list for PBXLibraryTarget "retrWeather" */;
+			buildPhases = (
+				085E79A90CF2648F005DAC02 /* Sources */,
+				085E79AA0CF2648F005DAC02 /* JavaArchive */,
+				085E79AB0CF2648F005DAC02 /* Frameworks */,
+				085E0F1F0CF646F200D27B1A /* CopyFiles */,
+			);
+			dependencies = (
+			);
+			name = retrWeather;
+			productInstallPath = /usr/local/lib;
+			productName = retrWeather;
+			productReference = 085E79AD0CF2648F005DAC02 /* retrWeather */;
+		};
+/* End PBXLibraryTarget section */
+
+/* Begin PBXProject section */
+		085E799A0CF262A2005DAC02 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 085E799D0CF262A2005DAC02 /* Build configuration list for PBXProject "retrWeather" */;
+			compatibilityVersion = "Xcode 3.0";
+			hasScannedForEncodings = 0;
+			mainGroup = 085E79980CF262A2005DAC02;
+			productRefGroup = 085E79AE0CF2648F005DAC02 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				085E79AC0CF2648F005DAC02 /* retrWeather */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		085E79A90CF2648F005DAC02 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				085E79BE0CF27E3E005DAC02 /* URLGrabber.java in Sources */,
+				085E79B70CF26517005DAC02 /* retrWeather.java in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		085E799B0CF262A2005DAC02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+		085E799C0CF262A2005DAC02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+			};
+			name = Release;
+		};
+		085E79AF0CF2648F005DAC02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				JAVA_ARCHIVE_CLASSES = NO;
+				JAVA_ARCHIVE_TYPE = JAR;
+				JAVA_CLASS_SEARCH_PATHS = "";
+				JAVA_COMPILER_DEBUGGING_SYMBOLS = NO;
+				JAVA_COMPILER_SOURCE_VERSION = 1.5;
+				JAVA_COMPILER_TARGET_VM_VERSION = 1.5;
+				JAVA_MANIFEST_FILE = manifest.mf;
+				JAVA_SOURCE_SUBDIR = .;
+				LIBRARY_STYLE = STATIC;
+				OPTIMIZATION_CFLAGS = "-O2";
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOL_FLAGS = "";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = retrWeather;
+				PURE_JAVA = YES;
+				REZ_EXECUTABLE = YES;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+			};
+			name = Debug;
+		};
+		085E79B00CF2648F005DAC02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				INSTALL_PATH = /Users/ph0t0phobic/cron;
+				JAVA_ARCHIVE_CLASSES = NO;
+				JAVA_ARCHIVE_TYPE = JAR;
+				JAVA_COMPILER = /usr/bin/javac;
+				JAVA_COMPILER_DEBUGGING_SYMBOLS = NO;
+				JAVA_COMPILER_SOURCE_VERSION = 1.5;
+				JAVA_COMPILER_TARGET_VM_VERSION = 1.5;
+				JAVA_SOURCE_SUBDIR = .;
+				LIBRARY_STYLE = STATIC;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOL_FLAGS = "";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = retrWeather;
+				PURE_JAVA = YES;
+				REZ_EXECUTABLE = YES;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		085E799D0CF262A2005DAC02 /* Build configuration list for PBXProject "retrWeather" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				085E799B0CF262A2005DAC02 /* Debug */,
+				085E799C0CF262A2005DAC02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		085E79B10CF2648F005DAC02 /* Build configuration list for PBXLibraryTarget "retrWeather" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				085E79AF0CF2648F005DAC02 /* Debug */,
+				085E79B00CF2648F005DAC02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 085E799A0CF262A2005DAC02 /* Project object */;
+}

@@ -1,0 +1,263 @@
+// !$*UTF8*$!
+{
+	0803B92D0DA94E370048E648 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 085E79B60CF26517005DAC02 /* retrWeather.java */;
+		name = "retrWeather.java: 48";
+		rLen = 0;
+		rLoc = 1207;
+		rType = 0;
+		vrLen = 1942;
+		vrLoc = 502;
+	};
+	081B98D60CF77E5D00586147 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 081B98D70CF77E5D00586147 /* URLGrabber.class */;
+		name = "URLGrabber.class: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 661;
+		vrLoc = 0;
+	};
+	081B98D70CF77E5D00586147 /* URLGrabber.class */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = compiled.javaclass;
+		name = URLGrabber.class;
+		path = /Users/ph0t0phobic/dev/retrWeather/build/Debug/retrWeather/com/macfaq/net/URLGrabber.class;
+		sourceTree = "<absolute>";
+	};
+	081B98D80CF77E5D00586147 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 085E0F9D0CF67FB100D27B1A /* retrWeather.class */;
+		name = "retrWeather.class: 20";
+		rLen = 0;
+		rLoc = 751;
+		rType = 0;
+		vrLen = 2052;
+		vrLoc = 0;
+	};
+	081B98E00CF77E5D00586147 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 081B98E10CF77E5D00586147 /* URLGrabber.class */;
+		name = "URLGrabber.class: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 661;
+		vrLoc = 0;
+	};
+	081B98E10CF77E5D00586147 /* URLGrabber.class */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = compiled.javaclass;
+		name = URLGrabber.class;
+		path = /Users/ph0t0phobic/dev/retrWeather/build/Debug/retrWeather/com/macfaq/net/URLGrabber.class;
+		sourceTree = "<absolute>";
+	};
+	085E0F1B0CF646AF00D27B1A /* retrWeather.xml */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {689, 1003}}";
+			sepNavSelRange = "{1302, 0}";
+			sepNavVisRange = "{0, 1404}";
+			sepNavWindowFrame = "{{61, 188}, {1369, 943}}";
+		};
+	};
+	085E0F280CF6632C00D27B1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 085E0F1B0CF646AF00D27B1A /* retrWeather.xml */;
+		name = "retrWeather.xml: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1051;
+		vrLoc = 0;
+	};
+	085E0F9C0CF67FB100D27B1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 085E0F9D0CF67FB100D27B1A /* retrWeather.class */;
+		name = "retrWeather.class: 12";
+		rLen = 0;
+		rLoc = 628;
+		rType = 0;
+		vrLen = 2052;
+		vrLoc = 0;
+	};
+	085E0F9D0CF67FB100D27B1A /* retrWeather.class */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = compiled.javaclass;
+		name = retrWeather.class;
+		path = /Users/ph0t0phobic/dev/retrWeather/build/Debug/retrWeather/retrWeather.class;
+		sourceTree = "<absolute>";
+	};
+	085E799A0CF262A2005DAC02 /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Debug;
+		activeTarget = 085E79AC0CF2648F005DAC02 /* retrWeather */;
+		addToTargets = (
+			085E79AC0CF2648F005DAC02 /* retrWeather */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 085E799F0CF262A2005DAC02 /* Code sense */;
+		ignoreBreakpointsInProjectsDict = {
+		};
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					963,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_FiletypeID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					511,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1113,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 229199390;
+			PBXWorkspaceStateSaveDate = 229199390;
+		};
+		perUserProjectItems = {
+			0803B92D0DA94E370048E648 /* PBXTextBookmark */ = 0803B92D0DA94E370048E648 /* PBXTextBookmark */;
+			081B98D60CF77E5D00586147 /* PBXTextBookmark */ = 081B98D60CF77E5D00586147 /* PBXTextBookmark */;
+			081B98D80CF77E5D00586147 /* PBXTextBookmark */ = 081B98D80CF77E5D00586147 /* PBXTextBookmark */;
+			081B98E00CF77E5D00586147 /* PBXTextBookmark */ = 081B98E00CF77E5D00586147 /* PBXTextBookmark */;
+			085E0F280CF6632C00D27B1A /* PBXTextBookmark */ = 085E0F280CF6632C00D27B1A /* PBXTextBookmark */;
+			085E0F9C0CF67FB100D27B1A /* PBXTextBookmark */ = 085E0F9C0CF67FB100D27B1A /* PBXTextBookmark */;
+			085E79D10CF27FEC005DAC02 /* PBXTextBookmark */ = 085E79D10CF27FEC005DAC02 /* PBXTextBookmark */;
+			085E7A380CF2A839005DAC02 /* PBXTextBookmark */ = 085E7A380CF2A839005DAC02 /* PBXTextBookmark */;
+			0893B12E0D08942500193603 /* PBXTextBookmark */ = 0893B12E0D08942500193603 /* PBXTextBookmark */;
+			08B74CC40D9C6A5000393464 /* PBXTextBookmark */ = 08B74CC40D9C6A5000393464 /* PBXTextBookmark */;
+			08B74CC80D9C6A5000393464 /* PBXTextBookmark */ = 08B74CC80D9C6A5000393464 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 085E799E0CF262A2005DAC02 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	085E799E0CF262A2005DAC02 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	085E799F0CF262A2005DAC02 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	085E79A60CF262F4005DAC02 /* URLGrabber.java */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 1004}}";
+			sepNavSelRange = "{696, 0}";
+			sepNavVisRange = "{0, 1127}";
+			sepNavWindowFrame = "{{38, 209}, {1369, 943}}";
+		};
+	};
+	085E79AC0CF2648F005DAC02 /* retrWeather */ = {
+		activeExec = 0;
+	};
+	085E79B60CF26517005DAC02 /* retrWeather.java */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {806, 10444}}";
+			sepNavSelRange = "{1207, 0}";
+			sepNavVisRange = "{502, 1942}";
+			sepNavWindowFrame = "{{378, 126}, {1369, 943}}";
+		};
+	};
+	085E79D10CF27FEC005DAC02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 085E79A60CF262F4005DAC02 /* URLGrabber.java */;
+		name = "URLGrabber.java: 12";
+		rLen = 0;
+		rLoc = 257;
+		rType = 0;
+		vrLen = 1127;
+		vrLoc = 0;
+	};
+	085E7A380CF2A839005DAC02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 085E79B60CF26517005DAC02 /* retrWeather.java */;
+		name = "retrWeather.java: 14";
+		rLen = 0;
+		rLoc = 367;
+		rType = 0;
+		vrLen = 1710;
+		vrLoc = 0;
+	};
+	0893B12E0D08942500193603 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 085E79A60CF262F4005DAC02 /* URLGrabber.java */;
+		name = "URLGrabber.java: 31";
+		rLen = 0;
+		rLoc = 696;
+		rType = 0;
+		vrLen = 1127;
+		vrLoc = 0;
+	};
+	08B74CC40D9C6A5000393464 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 085E0F1B0CF646AF00D27B1A /* retrWeather.xml */;
+		name = "retrWeather.xml: 63";
+		rLen = 0;
+		rLoc = 1302;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 0;
+	};
+	08B74CC80D9C6A5000393464 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 085E79B60CF26517005DAC02 /* retrWeather.java */;
+		name = "retrWeather.java: 55";
+		rLen = 0;
+		rLoc = 1435;
+		rType = 0;
+		vrLen = 1942;
+		vrLoc = 502;
+	};
+}
